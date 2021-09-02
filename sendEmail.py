@@ -60,7 +60,7 @@ def isEmpty (myString):
 def sendEmail(message):
     sender = "juancarlos.aranda@hivisionled.red"
     recipient = "juancarlos.aral@gmail.com"
-    password = "Olvidal0?" 
+    password = "" 
     subject = "Reporte Semanal"
     text = message
 
